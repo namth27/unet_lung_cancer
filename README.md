@@ -25,15 +25,15 @@ After training, the model was optimized and deployed using Streamlit to create a
   streamlit run app_interface.py
 4. Open your web browser and navigate to http://localhost:8501 to access the application.
 
-Usage
+Usage: 
 Upload an image of a lung scan using the provided interface.
 The model will predict the segmentation of lung cancer regions in the image and display the results.
 Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 The dataset is provided by Mendeley Data.
 Special thanks to the creators of the U-Net architecture and Streamlit for facilitating model deployment.
